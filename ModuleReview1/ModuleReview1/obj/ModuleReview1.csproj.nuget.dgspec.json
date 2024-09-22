@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/raynardbrown/Desktop/repos2/ModuleReview1/ModuleReview1/ModuleReview1.csproj": {}
+  },
+  "projects": {
+    "/Users/raynardbrown/Desktop/repos2/ModuleReview1/ModuleReview1/ModuleReview1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/raynardbrown/Desktop/repos2/ModuleReview1/ModuleReview1/ModuleReview1.csproj",
+        "projectName": "ModuleReview1",
+        "projectPath": "/Users/raynardbrown/Desktop/repos2/ModuleReview1/ModuleReview1/ModuleReview1.csproj",
+        "packagesPath": "/Users/raynardbrown/.nuget/packages/",
+        "outputPath": "/Users/raynardbrown/Desktop/repos2/ModuleReview1/ModuleReview1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/raynardbrown/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/raynardbrown/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

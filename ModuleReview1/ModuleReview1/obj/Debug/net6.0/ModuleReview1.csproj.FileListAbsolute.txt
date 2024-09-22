@@ -1,0 +1,15 @@
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/bin/Debug/net6.0/ModuleReview1
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/bin/Debug/net6.0/ModuleReview1.deps.json
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/bin/Debug/net6.0/ModuleReview1.runtimeconfig.json
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/bin/Debug/net6.0/ModuleReview1.dll
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/bin/Debug/net6.0/ModuleReview1.pdb
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/obj/Debug/net6.0/ModuleReview1.csproj.AssemblyReference.cache
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/obj/Debug/net6.0/ModuleReview1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/obj/Debug/net6.0/ModuleReview1.AssemblyInfoInputs.cache
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/obj/Debug/net6.0/ModuleReview1.AssemblyInfo.cs
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/obj/Debug/net6.0/ModuleReview1.csproj.CoreCompileInputs.cache
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/obj/Debug/net6.0/ModuleReview1.dll
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/obj/Debug/net6.0/refint/ModuleReview1.dll
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/obj/Debug/net6.0/ModuleReview1.pdb
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/obj/Debug/net6.0/ModuleReview1.genruntimeconfig.cache
+/Users/raynardbrown/repos/ModuleReview1/ModuleReview1/obj/Debug/net6.0/ref/ModuleReview1.dll
